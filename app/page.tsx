@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        
         <p>
-          :) gfbgfbghg&nbsp;
+          Some text here&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
         <div>
